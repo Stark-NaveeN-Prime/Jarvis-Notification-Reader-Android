@@ -68,5 +68,4 @@ Access to premium software features is structured strictly as **time-limited, no
 2. **System Permission:** Open system settings when prompted and activate **Notification Access** for JARVIS Notifications Reader.
 3. **Key Input:** Navigate to **Settings > License Activation** within the application.
 4. **Validation:** Enter your issued 16-character alphanumeric key:
-   ```text
-   JRVS-XXXX-XXXX-XXXX
+  
